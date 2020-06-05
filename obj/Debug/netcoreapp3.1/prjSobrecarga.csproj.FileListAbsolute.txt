@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\prjSobrecarga\bin\Debug\netcoreapp3.1\prjSobrecarga.exe
+C:\Users\HOME\Documents\prjSobrecarga\bin\Debug\netcoreapp3.1\prjSobrecarga.deps.json
+C:\Users\HOME\Documents\prjSobrecarga\bin\Debug\netcoreapp3.1\prjSobrecarga.runtimeconfig.json
+C:\Users\HOME\Documents\prjSobrecarga\bin\Debug\netcoreapp3.1\prjSobrecarga.runtimeconfig.dev.json
+C:\Users\HOME\Documents\prjSobrecarga\bin\Debug\netcoreapp3.1\prjSobrecarga.dll
+C:\Users\HOME\Documents\prjSobrecarga\bin\Debug\netcoreapp3.1\prjSobrecarga.pdb
+C:\Users\HOME\Documents\prjSobrecarga\obj\Debug\netcoreapp3.1\prjSobrecarga.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\prjSobrecarga\obj\Debug\netcoreapp3.1\prjSobrecarga.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\prjSobrecarga\obj\Debug\netcoreapp3.1\prjSobrecarga.AssemblyInfo.cs
+C:\Users\HOME\Documents\prjSobrecarga\obj\Debug\netcoreapp3.1\prjSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\prjSobrecarga\obj\Debug\netcoreapp3.1\prjSobrecarga.dll
+C:\Users\HOME\Documents\prjSobrecarga\obj\Debug\netcoreapp3.1\prjSobrecarga.pdb
+C:\Users\HOME\Documents\prjSobrecarga\obj\Debug\netcoreapp3.1\prjSobrecarga.genruntimeconfig.cache
